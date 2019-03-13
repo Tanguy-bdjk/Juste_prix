@@ -1,0 +1,16 @@
+﻿<Window x:Class="Juste_prix.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Juste_prix"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="509.223" Width="963.806" Background="#FF611616">
+    <Grid>
+        <TextBlock x:Name="Info" HorizontalAlignment="Left" Margin="84,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="68" Width="794" Background="#FF464242" Foreground="#FFF9F9F9" FontSize="24" TextAlignment="Center" FontWeight="Bold"/>
+        <TextBox x:Name="Input" HorizontalAlignment="Left" Height="75" Margin="84,244,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="528" SelectionOpacity="5" TextAlignment="Center" FontSize="48" FontWeight="Bold"/>
+        <Button Content="Soumettre" HorizontalAlignment="Left" Height="75" Margin="682,244,0,0" VerticalAlignment="Top" Width="196" FontWeight="Bold" FontSize="16" Click="Button_Click"/>
+        <TextBlock x:Name="NombreEssais" HorizontalAlignment="Left" Margin="200,398,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="48" Width="238" FontWeight="Bold" FontSize="18" Foreground="#FFF7F5F5" />
+        <TextBlock HorizontalAlignment="Left" Margin="84,202,0,0" TextWrapping="Wrap" Text="Trouver le chiffre entre 1 et 50" VerticalAlignment="Top" Height="60" Width="528" Foreground="White" FontSize="24" FontFamily="Tahoma" FontWeight="Bold"/>
+    </Grid>
+</Window>

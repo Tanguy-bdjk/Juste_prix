@@ -1,0 +1,15 @@
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\bin\Debug\Juste_prix.exe.config
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\bin\Debug\Juste_prix.exe
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\bin\Debug\Juste_prix.pdb
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\Juste_prix.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\MainWindow.g.cs
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\App.g.cs
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\Juste_prix_MarkupCompile.cache
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\Juste_prix_MarkupCompile.lref
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\MainWindow.baml
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\Juste_prix.g.resources
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\Juste_prix.Properties.Resources.resources
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\Juste_prix.csproj.GenerateResource.cache
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\Juste_prix.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\Juste_prix.exe
+C:\Users\Moi\Desktop\Juste_prix\Juste_prix\Juste_prix\obj\Debug\Juste_prix.pdb
